@@ -51,7 +51,7 @@ x = ikku.count(5)
 print(f"{x}")
 
 
-# Tuple index() Method
+# Tuple index() Method 
 
 ikku = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5)
 x = ikku.index(8)
