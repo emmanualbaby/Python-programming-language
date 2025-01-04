@@ -41,7 +41,7 @@ print(f"{wawa}")
 
 ikku = ("emmanual","emmanu")
 vava = ikku * 2
-print(f"{vava}")
+print(f"{vava}") 
 
 
 
