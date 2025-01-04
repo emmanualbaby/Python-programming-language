@@ -7,7 +7,7 @@ print(f"{yellow},{green},{red}")
 
 names = ("emmanual", "ikku", "emmanu","manu","wawa")
 (green, yellow, *red) = names
-print(f"{yellow},{green},{red}")
+print(f"{yellow},{green},{red}") 
 
 # Python - Loop Tuples
 
