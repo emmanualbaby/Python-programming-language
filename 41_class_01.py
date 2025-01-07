@@ -19,6 +19,6 @@ print(type(Qew))
 ds = "i ame"
 s = ds.upper()
 print(f"{s}")
-print(type(ds))
+print(type(ds)) 
 
 
