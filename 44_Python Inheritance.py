@@ -43,7 +43,7 @@ def search_books():
         response = requests.get(LIBRARY_1_URL)
         response.raise_for_status()
         books = response.json()
-        # Filter books based on the search query
+        # Filter books based on the search query 
         filtered_books = [book for book in books if query.lower() in book['title'].lower()]
         return render_template('books.html', books=filtered_books)
 
@@ -52,3 +52,4 @@ def search_books():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
