@@ -21,7 +21,6 @@ else:
 
 
 
-
 # # Q. Check whether the digit is even or not
 num = int(input("Enter your digit : "))
 if num%2==0:
