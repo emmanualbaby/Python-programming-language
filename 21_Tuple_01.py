@@ -2,7 +2,7 @@
 
 # Tuples are used to store multiple items in a single variable.
 
-# Allow Duplicates
+# Allow Duplicates 
 
 x = ("apple", "banana", "cherry", "apple", "cherry")
 print(x)
