@@ -1,4 +1,4 @@
-#Strings 
+#Strings
 
 print("Emmanual")
 print('Emmanual')
