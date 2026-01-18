@@ -16,7 +16,7 @@ if x==10:
 elif x<10:
     print(f"{x} is less than 10 ")
 else:
-    print(f"{x} is greater than 10")
+    print(f"{x} is greater than 10") 
 
 
 
